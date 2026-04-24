@@ -1,16 +1,35 @@
-# do_an_mobile
+# Mobile Project (Flutter)
 
-A new Flutter project.
+This is a Flutter application project.
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project serves as a starting point for building a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+If you're new to Flutter, here are some useful resources to help you get started:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Codelab:**  
+  https://docs.flutter.dev/get-started/codelab  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter Cookbook (Examples & Recipes):**  
+  https://docs.flutter.dev/cookbook  
+
+---
+
+## Documentation
+
+For more detailed guidance on Flutter development, including tutorials, samples, and API references, visit:
+
+https://docs.flutter.dev/
+
+---
+
+## Notes
+
+- Make sure you have Flutter SDK installed.
+- Check your environment setup using:
+  ```bash
+  flutter doctor
+  ```
